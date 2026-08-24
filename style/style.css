@@ -48,7 +48,7 @@ body {
     position: absolute;
     width: 130px;
     height: 130px;
-    border: 6px solid --clr-white;
+    border: 6px solid var(--clr-white);
     border-radius: 50%;
     top: 100%;
     left: 50%;
@@ -62,7 +62,7 @@ body {
     padding: 1rem 1rem;
     align-items: center;
     gap: 1rem;
-    background-color: --clr-white;
+    background-color: var(--clr-white);
 }
 
 .profile-card__name-wrapper {
